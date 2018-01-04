@@ -1,0 +1,9 @@
+{
+  "name": "babel-preset-rung",
+  "version": "1.0.0",
+  "description": "Babel preset for Rung projects",
+  "main": "index.js",
+  "repository": "https://github.com/rung-tools/babel-preset-rung",
+  "author": "Paulo Henrique Cuchi <paulo.cuchi@gmail.com>",
+  "license": "MIT"
+}
