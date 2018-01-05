@@ -1,9 +1,9 @@
-## `babel-preset-rung`
+# `babel-preset-rung`
 
 This preset comes with the latest ES7 features and new operators, which helps
 you to write a more readable and compact functional point-free code.
 
-### Installation
+## Installation
 
 Install the preset with the last stable version of **babel** in your development
 environment:
