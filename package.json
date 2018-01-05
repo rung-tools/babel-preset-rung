@@ -5,5 +5,18 @@
   "main": "index.js",
   "repository": "https://github.com/rung-tools/babel-preset-rung",
   "author": "Paulo Henrique Cuchi <paulo.cuchi@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.6.1",
+    "babel-preset-react": "6.24.1",
+    "@rung/babel-plugin-pipe-operator": "^1.0.0",
+    "babel-plugin-date-fns": "0.1.0",
+    "babel-plugin-function-composition": "^0.2.1",
+    "babel-plugin-holes": "^0.9.0",
+    "babel-plugin-implicit-function": "^0.1.1",
+    "babel-plugin-transform-async-to-bluebird": "1.1.1"
+  },
+  "peerDependencies": {
+    "babel-core": "6.x.x"
+  }
 }
