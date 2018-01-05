@@ -16,9 +16,6 @@
     "babel-plugin-implicit-function": "^0.1.1",
     "babel-plugin-transform-async-to-bluebird": "1.1.1"
   },
-  "peerDependencies": {
-    "babel-core": "6.x"
-  },
   "optionalDependencies": {
     "bluebird": "*",
     "date-fns": "*",
