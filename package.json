@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-rung",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Babel preset for Rung projects",
   "main": "index.js",
   "repository": "https://github.com/rung-tools/babel-preset-rung",
@@ -17,7 +17,7 @@
     "babel-plugin-transform-async-to-bluebird": "1.1.1"
   },
   "peerDependencies": {
-    "babel-core": "6.x.x"
+    "babel-core": "6.x"
   },
   "optionalDependencies": {
     "bluebird": "*",
