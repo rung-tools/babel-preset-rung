@@ -16,5 +16,6 @@ module.exports = () => ({
         require('babel-plugin-function-composition').default,
         require('@rung/babel-plugin-pipe-operator').default,
         require('babel-plugin-holes').default,
+        require('babel-plugin-transform-object-rest-spread').default,
         ...bluebirdPlugin,
         ...dateFnsPlugin] })
